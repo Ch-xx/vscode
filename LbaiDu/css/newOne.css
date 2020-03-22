@@ -1,0 +1,125 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#hl1 {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 500px;
+	height: 30px;
+	line-height: 40px;
+	position: relative;
+	left: 1030px;
+}
+
+li{
+	display: inline;
+}
+.func1{
+	color: #333;
+	padding-right: 10px;
+}
+.func2{
+	background-color:#3385ff;
+	text-decoration: none;
+	color:#fff;
+}
+/* 为设置做一个下拉菜单 
+.func3{
+	display: none;
+}
+.func3_1{
+	float: left;
+	margin-left: 1px;
+}
+.func3:hover .func3_1{
+	display: block;
+	clear: both;
+}
+#hl3 {
+	position: absolute;
+	left: 0;
+} */ 
+
+/*设置为居于整个页面中间*/
+.func4{
+	margin: 40px auto;
+	width:700px;
+	
+}
+#ty{
+	margin: 50px auto 0;
+	width: 270px;height: 129px;
+	text-align: center;
+}
+.func4 #kk{
+	position: absolute;
+	padding: 6px 0 0 6px;
+	width: 594px;
+	height: 30px;
+	border:1px solid #3385FF;
+}
+.func4 #tj{
+	position: relative;
+	left: 600px;
+	width: 100px;
+	height:38px;
+	background-color: #3385FF;
+	color:#fff;
+	border:1px solid #3385FF;
+}
+.tow{
+	width: 106px;
+	margin: 175px auto 0;
+}
+.title{
+	color:#333;
+	display:block;
+	font-family:arial;
+	font-size:17px;
+	font-stretch:100%;
+	font-weight:400;
+	letter-spacing: 2px;
+}
+.sub-title{
+	line-height: 20px;
+	font-size: 14px;
+	color: #868686;
+}
+#kw{
+	margin: 10px auto;
+}
+#kw p{
+	text-align: center;
+	display: block;
+}
+#qw{
+	margin: 30px 0 0 0;
+}
+#qa{
+	margin: 0 auto;
+	width: 500px;
+}
+#as{
+	color: #868686;
+	font-size: 12px;
+}
+.we{
+	margin: 0 0 0 25px;
+	color: #868686;
+	font-size: 12px;
+}
+#po{
+	color: #868686;
+	font-size: 12px;
+	width: 521px;
+	margin: 8px auto;
+}
+#pa{
+	color: #868686;
+	margin: 0 20px 0 0;
+}
+.pb{
+	color: #868686;
+}
